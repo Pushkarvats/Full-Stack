@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+
+.main{
+    background-color: blueviolet;
+}
+
+#card{
+    background-color: chartreuse;
+    h3{
+    color: crimson;
+}
+}
+
+#card p{
+    background-color: cornsilk;
+    height: 230px;
+    overflow: auto;
+    color: blue;
+}
+#card p{
+    background-color: burlywood;
+}
+#clickBtn{
+    background-color: rgb(108, 146, 43);
+    border: 3px groove rgb(148, 6, 6);
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+#clickBtn:hover{
+    background-color: bisque;
+    color: cornflowerblue; 
+
+}
+#clickBtn:active {
+    background-color: darkgreen;
+    color: blue;
+}
