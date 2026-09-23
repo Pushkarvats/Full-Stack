@@ -1,0 +1,37 @@
+.a{
+    width:150px;
+    height:200px;
+    border: 2px solid #000;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: crimson;
+    
+}
+
+
+
+#first{
+    border: 1px solid #000;
+    background-color: beige;
+    
+}
+#second{
+    border: 1px solid #000;
+    background-color: rgb(172, 240, 105);
+
+}
+#third{
+    border: 1px solid #000;
+    background-color: rgb(131, 167, 233);
+}
+#fourth{
+    border: 1px solid #000;
+    background-color: rgb(182, 99, 224);
+}
+#button{
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgb(232, 173, 102);
+}

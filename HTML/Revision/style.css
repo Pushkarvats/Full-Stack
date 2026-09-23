@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(159, 239, 212);
+
+}
+button:active{
+    background-color: rgb(240, 203, 154);
+    color: rgb(98, 52, 141);
+}
+button:hover{
+    background-color: rgb(167, 76, 94);
+    color: rgb(68, 68, 164);
+}
+#button{
+    background-color: burlywood;
+    color: crimson;
+}
+
