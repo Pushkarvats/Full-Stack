@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+QLD+Hand:wght@400..700&display=swap');
+.heading{
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: "Bebas Neue", sans-serif;
+    
+
+}
+subheading{
+    font-size: larger;
+    font-weight: 600;
+    font-style: italic;
+    font-family: "Edu QLD Hand", cursive;
+}
+#description span{
+
+    font-weight: 400;
+    color: crimson;
+    text-decoration: underline;
+
+}
+.pointer head{
+    font-size: larger;
+    font-weight: 700;
+
+}
+
+ul{
+    margin-left: 20px;
+    list-style: "▲"; 
+}
+ol{
+    margin-left: 30px;
+    list-style: lower-greek;
+}
+footer{
+    background-color: aquamarine;
+    color: darkgoldenrod;
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+
+}
+
+ol li:first-child{
+    background-color: blueviolet;
+}
+
+ol li:last-child{
+    background-color: cadetblue;
+}
+
