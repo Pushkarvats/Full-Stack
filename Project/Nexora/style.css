@@ -1,6 +1,7 @@
 .header{
     display: flex; 
 }
+
 #header{
     font-size: x-large;
     font-weight:bolder;
