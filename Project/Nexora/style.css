@@ -1,7 +1,15 @@
 .header{
     display: flex; 
 }
+#nexora{
+    font-size: xx-large;
+    font-weight: 800;
+}
 
+#dot{
+    color: blue;
+    
+}
 #header{
     font-size: x-large;
     font-weight:bolder;
