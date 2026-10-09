@@ -33,4 +33,45 @@
     i++;
  }
 
+ console.log("1. Check B alance");
+ console.log("2. Withdraw Money" );
+ console.log("3. Mini Statement");
+ console.log("4. Pin Change");
+ console.log("5. Deposit Money");
+ console.log("6. Exit");
+ 
+
+  switch(marks){
+    case 1: {
+        console.log("Checking your balance");
+        break;
+    }
+    case 2: {
+        console.log("Please Collect your Cash");
+        break;
+
+    }
+    case 3: {
+        console.log("Please find your transaction below");
+        break;
+    }
+    case 4: {
+        console.log("Enter your new Pin");
+        break;
+    }
+    case 5: {
+        console.log("Put your cash into machine");
+        break;
+    }
+    case 6: {
+        console.log("Thank you for");
+        break;
+    }
+    case 7: {
+        console.log("Wrong Choice");
+        
+    }
+  }
+
+
 
