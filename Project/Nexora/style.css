@@ -1,13 +1,47 @@
-.header{
-    display: flex; 
+body{
+    margin: 0;
+    padding: 0;
 }
+
+.header{
+    color: #667085;
+    font: 24px;
+    margin: 0px,27px;
+    padding: 8px,17.6px;
+    display: flex;
+    
+    #first{
+        color: #0F0F40;
+        font: 15.2px;
+        background-color: #EEF2FF;
+        padding: 8px,17.6px;
+
+    }
+    #last{
+        color: #FFFFFF;
+        font: 13.6px;
+        padding: 8px,20px;
+        background-color: #155EEF;
+    }
+
+    .head{
+        color: #987777;
+        font: 15.2px;
+        background-color: #EEF2FF;
+        padding: 8px,17.6px;
+    
+  }
+}
+
 #nexora{
-    font-size: xx-large;
-    font-weight: 800;
+    color: #0B1437;
+    font: 24px;
+    margin: 0px,16px,0px,0px;
+    padding: 5px,0px;
 }
 
 #dot{
-    color: blue;
+    color: #155EEF
     
 }
 #header{
