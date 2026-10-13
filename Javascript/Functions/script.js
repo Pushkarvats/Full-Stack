@@ -63,3 +63,20 @@ sum(8 , 10, (a , b)=> {
     let y = b + 5;
     console.log(x + y);  
 });
+
+
+//Closure function
+
+function Greetings(name) {
+
+    return function () {
+        console.log("Welcome to RICR !!!", name);
+
+    }
+}
+
+const greetPushkar = Greetings("Pushkar");
+const greetAman = Greetings("Aman");
+
+greetPushkar();
+greetAman();
