@@ -1,5 +1,7 @@
 function b1ON() {
     const b1 = document.getElementById("bulb1");
+
+    b1
 }
 
 function b1OFF() {
